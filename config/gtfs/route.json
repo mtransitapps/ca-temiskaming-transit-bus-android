@@ -10,6 +10,9 @@
             "comment": "Remove 'Route <number> - ' from the beginning of the route long name"
         }
     ],
+    "route_colors_ignored": [
+        "000000"
+    ],
     "route_colors": [
         {
             "route_id": "1",
