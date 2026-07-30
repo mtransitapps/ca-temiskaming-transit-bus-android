@@ -1,0 +1,95 @@
+110,'','Prospect Ave & Nickel St',47.39638,-79.68865,0,48656
+111,'','Galena St & Miller Ave',47.39278,-79.69003,0,48657
+112,'','Cobalt St & Grandview Ave',47.39345,-79.68692,0,48658
+113,'','Silver St & Prospect Ave',47.39601,-79.68571,0,48659
+114,'','Cobalt Public Library',47.39788,-79.68254,0,48660
+115,'','Lang St & Ferland Ave',47.39900,-79.67896,0,48661
+116,'','Lang St & Russel Ave',47.40092,-79.67646,0,48662
+117,'','Mileage 104',47.40671,-79.66155,0,48663
+118,'','King St & 1st St',47.42058,-79.64641,0,48664
+119,'','Lakeview Ave & Queen St',47.42507,-79.64404,0,48665
+120,'','Carter Blvd & Lakeview St',47.42540,-79.64010,0,48687
+121,'','Carter Blvd & Silver St',47.42876,-79.64016,0,48688
+122,'','Carter Blvd & Rorke Ave',47.43263,-79.64019,0,48689
+123,'','Rorke Ave & Morissette Dr',47.43600,-79.63718,0,48690
+125,'','Haileybury Medical Centre',47.43819,-79.63217,0,48692
+126,'','Meridian Ave & Algonquin Dr',47.43978,-79.63216,0,48693
+127,'','Lawlor St & Georgina Ave',47.44078,-79.63531,0,48694
+128,'','Georgina Ave & Little St',47.44235,-79.63533,0,48695
+129,'','Georgina Ave & Blackwall St',47.44650,-79.63532,0,48696
+130,'','Rorke Ave & Main St',47.44860,-79.63759,0,48718
+131,'','Northern College',47.45132,-79.63999,0,48719
+132,'','Ferguson Ave & Browning St',47.45044,-79.63301,0,48720
+133,'','Hughes Lookout',47.46077,-79.64027,0,48721
+134,'','Lakeshore Rd & Radley Hl Rd',47.49247,-79.67678,0,48722
+135,'','Lakeshore Rd & Beach Blvd',47.49837,-79.68073,0,48723
+136,'','Lakeshore Rd & Broadwood Ave',47.50497,-79.67847,0,48724
+137,'','Market Street',47.50509,-79.67645,0,48725
+138,'','Paget St & Cedar Ave',47.50658,-79.67428,0,48726
+139,'','Cedar Ave & Armstrong St',47.50660,-79.67171,0,48727
+140,'','Armstrong St & Whitewood Ave',47.50819,-79.67144,0,48749
+141,'','Armstrong St & Elm Ave',47.51212,-79.67143,0,48750
+142,'','Armstrong St & Haliburton Ave',47.51431,-79.67144,0,48751
+143,'','Temiskaming Plaza',47.52453,-79.67264,0,48752
+144,'','HWY 65 & Wilson Ave',47.52740,-79.67370,0,48753
+145,'','Grant Drive',47.53137,-79.67080,0,48754
+146,'','Laurette St & Rolland Rd',47.54057,-79.67038,0,48755
+149,'','Raymond St & Dr In Theatre Rd',47.53759,-79.67199,0,48758
+150,'','Wal-Mart',47.53178,-79.67248,0,48780
+151,'','Armstrong St North',47.51702,-79.67460,0,48781
+152,'','Armstrong St & Haliburton Ave',47.51429,-79.67167,0,48782
+153,'','Armstrong St & Church St',47.50987,-79.67167,0,48783
+154,'','Whitewood Ave & Mary St',47.50863,-79.67631,0,48784
+155,'','Whitewood Ave & Niven St',47.50866,-79.67903,0,48785
+156,'','Whitewood Ave & Scott St',47.50867,-79.68294,0,48786
+157,'','Whitewood Ave & Regina St',47.50868,-79.68901,0,48787
+158,'','Shepherdson Rd & McCamus Ave',47.50661,-79.69583,0,48788
+159,'','Shepherdson Rd & Bolger Ave',47.50382,-79.69577,0,48789
+160,'','Great Northern Family Health',47.50202,-79.69575,0,48811
+161,'','Temiskaming Hospital',47.49502,-79.69388,0,48812
+210,'','Temiskaming Hospital',47.49502,-79.69388,0,49617
+211,'','Great Northern Family Health',47.50203,-79.69559,0,49618
+212,'','Shepherdson Rd & Bolger Ave',47.50389,-79.69560,0,49619
+213,'','Shepherdson Rd & McCamus Ave',47.50664,-79.69569,0,49620
+214,'','Whitewood Ave & Golding St',47.50853,-79.68731,0,49621
+215,'','Whitewood Ave & Edith St',47.50850,-79.68281,0,49622
+216,'','Whitewood Ave & Niven St',47.50849,-79.67885,0,49623
+217,'','Whitewood Ave & Mary St',47.50850,-79.67608,0,49624
+218,'','Whitewood Ave & Armstrong St',47.50849,-79.67197,0,49625
+219,'','Whitewood Ave & May St',47.50848,-79.67031,0,49626
+220,'','Armstrong St & Elm Ave',47.51212,-79.67143,0,49648
+221,'','Armstrong St & Haliburton Ave',47.51431,-79.67144,0,49649
+222,'','Temiskaming Plaza',47.52453,-79.67264,0,49650
+223,'','HWY 65 & Wilson Ave',47.52740,-79.67370,0,49651
+224,'','Wal-Mart',47.53178,-79.67248,0,49652
+225,'','Armstrong St North',47.51702,-79.67460,0,49653
+226,'','Armstrong & Haliburton',47.51429,-79.67167,0,49654
+227,'','Armstrong St & Church St',47.50987,-79.67167,0,49655
+228,'','Whitewood Ave & Wellington St',47.50862,-79.67282,0,49656
+230,'','Market Street',47.50521,-79.67655,0,49679
+231,'','Lakeshore Rd & Broadwood Ave',47.50504,-79.67869,0,49680
+232,'','Lakeshore Rd & Beach Blvd',47.49818,-79.68093,0,49681
+233,'','Lakeshore Rd & Radley Hl Rd',47.49254,-79.67709,0,49682
+234,'','Lakeshore South Lions Park',47.45517,-79.63630,0,49683
+235,'','Ferguson Ave & Browning St',47.44989,-79.63320,0,49684
+236,'','Northern College',47.45132,-79.63999,0,49685
+237,'','Rorke Ave & Main St',47.44930,-79.63780,0,49686
+238,'','Georgina Ave & Blackwall St',47.44671,-79.63550,0,49687
+239,'','Georgina Ave & Little St',47.44254,-79.63552,0,49688
+240,'','Lawlor St & Georgina Ave',47.44081,-79.63549,0,49710
+241,'','Meridian Ave & Algonquin Dr',47.43995,-79.63234,0,49711
+242,'','Haileybury Medical Centre',47.43849,-79.63232,0,49712
+244,'','Rorke Ave & Morissette Dr',47.43610,-79.63734,0,49714
+245,'','Carter Blvd & Rorke Ave',47.43250,-79.64026,0,49715
+246,'','Carter Blvd & Silver St',47.42890,-79.64030,0,49716
+247,'','Carter Blvd & Lakeview St',47.42529,-79.64027,0,49717
+248,'','Lakeview Ave & Queen St',47.42521,-79.64445,0,49718
+249,'','King St & 1st St',47.42063,-79.64659,0,49719
+250,'','Mileage 104',47.40675,-79.66183,0,49741
+251,'','Lang & Russel',47.40097,-79.67663,0,49742
+252,'','Lang St & Ferland Ave',47.39907,-79.67905,0,49743
+253,'','Lang St & Watson Place',47.39860,-79.68106,0,49744
+254,'','Argentite St & Silver Lane',47.39757,-79.68446,0,49745
+255,'','Silver St & Prospect Ave',47.39642,-79.68588,0,49746
+256,'','Prospect Ave & Nickel St',47.39638,-79.68865,0,49747
+257,'','Temiskaming Plaza',47.52453,-79.67264,0,49748

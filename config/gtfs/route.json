@@ -1,7 +1,29 @@
 {
     "default_route_id_enabled": true,
-    "use_route_short_name_for_route_id": true,
+    "use_route_short_name_for_route_id": false,
+    "use_route_id_for_route_short_name": true,
     "default_route_long_name_enabled": true,
+    "route_long_name_cleaners" : [
+        {
+            "regex": "^route \\d+ - ",
+            "ignore_case": true,
+            "comment": "Remove 'Route <number> - ' from the beginning of the route long name"
+        }
+    ],
+    "route_colors": [
+        {
+            "route_id": "1",
+            "route_long_name": "Route 1 - Northbound",
+            "color": "FF7F00",
+            "comment": "Orange"
+        },
+        {
+            "route_id": "2",
+            "route_long_name": "Route 2 - Southbound",
+            "color": "00B9D9",
+            "comment": "Blue"
+        }
+    ],
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
